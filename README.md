@@ -4,7 +4,6 @@
 <p align="leading">
 🎓 Bachelor’s Degree in Software Development Engineering at Universidad Autónoma de Chiapas (December 2024) <br>
 🎖️ Swift Student Challenge Winner (2024) <br>
-✍🏻 Always curious. Always Creating <br>
 </p>
 
 ---
