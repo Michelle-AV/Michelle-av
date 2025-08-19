@@ -3,6 +3,7 @@
 
 <p align="leading">
 🎓 Bachelor’s Degree in Software Development Engineering at Universidad Autónoma de Chiapas (December 2024) <br>
+💻 Success Story at Apple: https://www.apple.com/ie/education/college-students/success-stories/ayala/ <br>
 🎖️ Swift Student Challenge Winner (2024) <br>
 </p>
 
