@@ -9,7 +9,7 @@
 
 ---
 
-## 🔗 About Me 
+## 💡 About Me 
 I’m a passionate **Software engineer** with a strong focus on **application design and creating inclusive user experiences**. My expertise lies in blending functionality with aesthetics, ensuring that every solution is **scalable, user-friendly, and accessible to diverse audiences**.
 
 Beyond coding, I take pride in crafting thoughtful **UX/UI designs** that make technology approachable and enjoyable for everyone. I’ve worked on real-world projects during my internships, and actively participated in national and international competitions, earning recognition for creativity, technical excellence, and design innovation.
@@ -29,7 +29,7 @@ Some of the projects I’m most proud of designed and worked on:
 
 ---
 
-## ⚙️ Technical Skills
+## 🧩 Technical Skills
 These are the technologies I’ve worked with across my projects, internships, and self-learning:
 
 - **Languages:** Swift, Python, Java, C
