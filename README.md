@@ -25,7 +25,7 @@ Some of the projects I’m most proud of designed and worked on:
 | **Manglaria 🌿** | Interactive game raising awareness about mangrove conservation. Players face engaging challenges and learn how to take real-world action to protect these vital ecosystems, developed for Swift Student Challenge 2025. | Swift, SwiftUI, AVKit | [GitHub](https://github.com/Michelle-AV/Manglaria) |
 | **BeKind 👐🏻** | Interactive application where children learn how small acts of kindness can make a difference, while participating in educational activities that reinforce these values, winner of Swift Student Challenge 2024 | Swift, SwiftUI | [GitHub](https://github.com/Michelle-AV/BeKind) |
 | **Dima Mundo 🌎** | Educational app that turns learning multiplication tables into a fun adventure, combining challenges, rewards, and storytelling to motivate and strengthen children’s logical thinking. | SwiftUI, CoreData, AVKit, RiveAnimation| [GitHub](https://github.com/Michelle-AV/Dima-Mundo) |
-| **Banorte E-pocket 🏦** | Educational app promoting digital financial literacy and secure, efficient, accessible digital transactions for all. | SwiftUI, CoreData| [GitHub](https://github.com/clxsrdev/Almacen-UNACH-Galaxy) |
+| **Banorte E-pocket 🏦** | Educational app promoting digital financial literacy and secure, efficient, accessible digital transactions for all. | SwiftUI, CoreData| [GitHub](https://github.com/Michelle-AV/Banorte-E-Pocket) |
 
 ---
 
