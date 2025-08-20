@@ -33,11 +33,11 @@ Some of the projects I’m most proud of designed and worked on:
 These are the technologies I’ve worked with across my projects, internships, and self-learning:
 
 - **Languages:** Swift, Python, Java, C
-- **Mobile:** SwiftUI, UIKit
+- **Mobile:** SwiftUI, UIKit, AVKit
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools & Platforms:** Git, Docker, Figma, Postman, Swagger
 - **Methodologies:** Scrum, Agile
 - **UX/UI & Design:** User Research, Wireframing, Prototyping, Usability Testing, Accessibility Design
+- **Motion & Visual Design:** Rive Animation, Adobe Illustrator, Figma
 
 
 ---
