@@ -46,7 +46,7 @@ These are the technologies I’ve worked with across my projects, internships, a
 - **Oracle ONE Backend Program** – Oracle & Alura LATAM (2023)
 - **Develop in Swift** – Learning Design Center (2023)
 - **Swift Student Challenge Winner** – Apple (2024)
-- **UX reseacrh** – Google (2025)
+- **UX Research** – Google (2025)
 
 ➡️ Full list of certifications available on my [LinkedIn](https://linkedin.com/in/clxsrdev).
 
